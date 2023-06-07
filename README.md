@@ -1,16 +1,14 @@
-# whats_app_demo
+# whats_app_demo [中文文档](README_zh.md)
 
-A Flutter Demo imitation WhatsApp according to YonasAlem tutorial .
+A Flutter Demo imitation WhatsApp according to Yonas Alem tutorial .
 
-## Getting Started
+[**WhatsApp Clone - Full Stack Flutter Tutorial**](https://www.youtube.com/playlist?list=PLKVW6d8dj19TgglsvNcWq0OzKXUMZtUqL)
 
-This project is a starting point for a Flutter application.
+### Components to use
 
-A few resources to get you started if this is your first Flutter project:
+- flutter_native_splash
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  Customize Flutter's default white native splash screen with background color and splash image. Supports dark mode, full screen, and more.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  
+
