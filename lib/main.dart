@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:whats_app_demo/feature/welcome/pages/welcome_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -13,11 +14,7 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Whats',
-      home: Scaffold(
-        body: Center(
-          child: Text('Demo Page'),
-        ),
-      ),
+      home: WelcomePage(),
     );
   }
 }
